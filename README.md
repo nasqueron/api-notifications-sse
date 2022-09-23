@@ -1,2 +1,7 @@
-This API permit the Notification to be shown on a web page.
-This will permit the monitoring of RabitMQ notification
+This API allows to get a notifications stream.
+It follows the server-sent event API specification.
+
+This is a part of the Notifications Center.
+
+It's consumed by infra.nasqueron.org to serve
+notifications as a web page.
