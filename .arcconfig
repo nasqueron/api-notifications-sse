@@ -1,5 +1,4 @@
 {
-    "repository.callsign": "rAPINSSE",
-    "phabricator.uri": "https://devcentral.nasqueron.org",
-    "unit.engine": "PhpunitTestEngine"
+    "repository.callsign": "APINSSE",
+    "phabricator.uri": "https://devcentral.nasqueron.org"
 }
